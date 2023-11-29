@@ -1,5 +1,36 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Project Deployed in Vercel: [Nextjs 14 - Rick and Morty API]()
+
+Nextjs 14 Project using:
+
+- Nextjs 14 Features
+  - Src and App Folder
+  - Import Alias (@)
+  - .env.local and .env
+  - Metadata
+  - Types
+  - Client Side
+    - Google Fonts and TailwindCSS, NextUI and Framer Motion with Next-Themes
+    - Link and Image Componente
+    - Layout and Page Structure
+    - Client Routes
+    - Dynamic Routes ([id] folder) and Params | SearchParams (/products/[id]?params=example)
+    - Static Site Generation using generateStaticParams() Function to get data from API
+    - Async GET in page.tsx -> Server Components
+    - Suspense React Component
+    - Page not-found.tsx, loading.tsx and notFound() Function from 'next/navigation' that redirect to 404 page, Error Handling Function
+    - Streaming Data with Suspense and Skeleton Loading
+    - useRouter(), useParam() and useSearchParams Hooks in Client Components
+    - Revalidate -> Tags and revalidateTag() Function from next/cache, next: cache and revelidate options in get from Page.
+    - Route Groups
+  - Server Side
+    - API Routes using Route Handlers API -> params, query, body and searchParams
+    - params and searchParams in Route Handlers API
+    - Server Actions using useFormStatus and useTransition React Hooks from react for Delete Button
+  - ESLint and Prettier
+  - Rick and Morty API
+
 ## Getting Started
 
 First, run the development server:
