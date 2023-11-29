@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Project Deployed in Vercel: [Nextjs 14 - Rick and Morty API]()
+Project Deployed in Vercel: [Nextjs 14 - Rick and Morty API](https://nextjs14-rickandmorty.vercel.app/)
 
 Nextjs 14 Project using:
 
